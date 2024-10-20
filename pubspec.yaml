@@ -1,5 +1,5 @@
-name: pce_anamnese
-description: "A new Flutter project."
+name: pcg_anamnese
+description: "APP em Flutter para os pacientes"
 publish_to: 'none'
 version: 0.1.0
 
