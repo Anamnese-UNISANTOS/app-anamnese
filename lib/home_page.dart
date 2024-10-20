@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:pce_anamnese/boasvindas_page.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import 'boasvindas_page.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});

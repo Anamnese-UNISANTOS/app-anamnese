@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pce_anamnese/boasvindas_page.dart';
+import 'boasvindas_page.dart';
 
 void main() {
   runApp(const MainApp());
